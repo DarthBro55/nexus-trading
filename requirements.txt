@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+torch
+polygon-api-client
+alpaca-trade-api
+python-binance
+coinbase
+cryptography
+requests
