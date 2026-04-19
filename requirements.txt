@@ -2,9 +2,9 @@ streamlit
 pandas
 numpy
 torch
-polygon-api-client
-alpaca-trade-api
-python-binance
-coinbase
+torchvision
+torchaudio
+yfinance
+ta
+scikit-learn
 cryptography
-requests
