@@ -8,3 +8,4 @@ yfinance
 ta
 scikit-learn
 cryptography
+plotly
