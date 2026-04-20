@@ -220,4 +220,3 @@ st.components.v1.html('''
 frameborder="0" allowfullscreen></iframe>
 ''', height=300)
 
-st.caption("🔴 Deployed on Railway • Install as PWA on Galaxy A36")
